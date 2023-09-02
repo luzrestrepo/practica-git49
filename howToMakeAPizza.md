@@ -12,3 +12,7 @@ Se prende el horno para que vaya calentando
 Se agregan ingredientes a la pizza 
 Se mete al horno
 Despues de 30 minutos se revisa su coccion
+
+Empacado 
+Se preparan las cajas ya solo para esperar la salida de la pizza 
+se empaqueta la pizza y se le da al cliente 
